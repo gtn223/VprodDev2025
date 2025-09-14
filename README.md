@@ -11,6 +11,8 @@ Slides [**Virtual Produciton**](https://docs.google.com/presentation/d/1fDI8jPcF
 
 ## From Week 2: 
 
-Slides [World Building] (https://docs.google.com/presentation/d/1rbc4WYezXQqK1gGvVjwPtUeRu9vaVOJ7ykW5i4nKNvk/edit?usp=drive_link)
+Slides [World Building](https://docs.google.com/presentation/d/1rbc4WYezXQqK1gGvVjwPtUeRu9vaVOJ7ykW5i4nKNvk/edit?usp=drive_link)
+Video: [Redo of in class demo](https://drive.google.com/file/d/1DBGd7_uZfjn9Sa_dZE87uy0On3nhUcHl/view?usp=drive_link)
+Video: [Metahumans and materials](https://drive.google.com/file/d/17GkGALyaozoMoLPCwML4qUNqjSx6vw_w/view?usp=drive_link)
 
 
