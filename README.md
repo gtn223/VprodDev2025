@@ -19,7 +19,7 @@ Video: [Metahumans and materials](https://drive.google.com/file/d/17GkGALyaozoMo
 
 Slides:<br>
 Video:<br>
-Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This is only work with your NYU email<br>
+Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address<br>
 ## VPN set up and information:
 ZeroTier download link [Here](https://www.zerotier.com/download/)<br>
 Our class VPN is named: VprodDev_2025
