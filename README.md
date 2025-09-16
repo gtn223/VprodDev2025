@@ -26,6 +26,8 @@ Slides:<br>
 Video:<br>
 Upload characters to this google drive folder: [Here](https://drive.google.com/drive/u/1/folders/1kw2apc4DPQl-Ce0Q9f9T316w3_0Xy6__)<br>
 Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address<br>
+
+#Things to look ahead for next week
 ## VPN set up and information:
 ZeroTier download link [Here](https://www.zerotier.com/download/)<br>
 Our class VPN is named: VprodDev_2025
