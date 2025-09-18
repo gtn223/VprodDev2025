@@ -25,7 +25,7 @@ Video: [Metahumans and materials](https://drive.google.com/file/d/17GkGALyaozoMo
 Slides: [Mocap 101](https://docs.google.com/presentation/d/1k9N6rjLF3REOI8JMUtV8bdAJ2a0V8Z2Tnc1Nc40BnUE/edit?slide=id.p#slide=id.p) Feel free to look this over, I will go over these subjects more in the later classes.<br>
 Video:[Metahuman fix!](https://drive.google.com/file/d/1RqGrQ_UsmXDLf9xO8vw8xrFtW__RyduV/view?usp=drive_link) and [Measurement tool in unreal](https://drive.google.com/file/d/1OdDAdM-jS4fHHCuKoGVNfSTao6c3CYqq/view?usp=drive_link) and [Class Demo](https://drive.google.com/file/d/1hKcLqsgng0yRgaMV9guezWtfteJ6p7Gc/view?usp=sharing) and the [MakeHuman](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link) video on how to get a skeleton in and fix it up.<br>
 Upload characters to this google drive folder: [Here](https://drive.google.com/drive/u/1/folders/1kw2apc4DPQl-Ce0Q9f9T316w3_0Xy6__)<br>
-Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address<br>
+Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address. This is a 5.3 version, it should be able to be updated to 5.6.<br>
 Ethan David's talk: [Here](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link)<br>
 
 # Things to look ahead for next week
