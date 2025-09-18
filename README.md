@@ -23,7 +23,7 @@ Video: [Metahumans and materials](https://drive.google.com/file/d/17GkGALyaozoMo
 # From Week 3
 
 Slides:<br>
-Video:[Metahuman fix!](https://drive.google.com/file/d/1RqGrQ_UsmXDLf9xO8vw8xrFtW__RyduV/view?usp=drive_link) [Measurement tool in unreal](https://drive.google.com/file/d/1OdDAdM-jS4fHHCuKoGVNfSTao6c3CYqq/view?usp=drive_link) and [Class Demo](https://drive.google.com/file/d/1hKcLqsgng0yRgaMV9guezWtfteJ6p7Gc/view?usp=sharing)<br>
+Video:[Metahuman fix!](https://drive.google.com/file/d/1RqGrQ_UsmXDLf9xO8vw8xrFtW__RyduV/view?usp=drive_link) and [Measurement tool in unreal](https://drive.google.com/file/d/1OdDAdM-jS4fHHCuKoGVNfSTao6c3CYqq/view?usp=drive_link) and [Class Demo](https://drive.google.com/file/d/1hKcLqsgng0yRgaMV9guezWtfteJ6p7Gc/view?usp=sharing)<br>
 Upload characters to this google drive folder: [Here](https://drive.google.com/drive/u/1/folders/1kw2apc4DPQl-Ce0Q9f9T316w3_0Xy6__)<br>
 Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address<br>
 
