@@ -28,6 +28,9 @@ Upload characters to this google drive folder: [Here](https://drive.google.com/d
 Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address. This is a 5.3 version, it should be able to be updated to 5.6.<br>
 Ethan David's talk: [Here](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link)<br>
 
+Makehuman for PC [here](https://static.makehumancommunity.org/makehuman/releases/releases_130.html)<br>
+Make human for MAC [here](https://static.makehumancommunity.org/makehuman/releases/releases_120mac.html)<br>
+
 # Things to look ahead for next week
 ## VPN set up and information:
 ZeroTier download link [Here](https://www.zerotier.com/download/)<br>
