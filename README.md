@@ -36,7 +36,12 @@ Make human for MAC [here](https://static.makehumancommunity.org/makehuman/releas
 ZeroTier download link [Here](https://www.zerotier.com/download/)<br>
 Our class VPN is named: VprodDev_2025
 Network ID: 4753cf475f7473d0
-
 Once you have downloaded zerotier, you will need to join by the network ID. I will then give your computer's ip access to the vpn. 
+
+# From Week 4
+
+Assets: [Motive T-pose fbx](https://drive.google.com/drive/folders/1el_pF54x0voymQ3B2CRPp2CACjIX8-JN?usp=drive_link)<br>
+
+
 
 
