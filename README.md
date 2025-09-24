@@ -3,8 +3,8 @@ List of class materials for reference
 
 Here are some useful links for people to refer to: 
 
-Jay street Metrotech blackbox: [Here](https://sites.google.com/nyu.edu/370jmediacommons/spaces/220-black-box?authuser=1) is a link to their space.<br>
-To reserve mocap sessions use this [link](https://sites.google.com/nyu.edu/370jmediacommons/reservations/booking-tool?authuser=1)<br>
+## Jay street Metrotech blackbox: [Here](https://sites.google.com/nyu.edu/370jmediacommons/spaces/220-black-box?authuser=1) is a link to their space.<br>
+## To reserve mocap sessions use this [link](https://sites.google.com/nyu.edu/370jmediacommons/reservations/booking-tool?authuser=1)<br>
 **Please be aware you might need to schedule a safety appointment to operate the space.**
 
 
