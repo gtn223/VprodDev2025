@@ -41,6 +41,10 @@ Once you have downloaded zerotier, you will need to join by the network ID. I wi
 # From Week 4
 
 Assets: [Motive T-pose fbx](https://drive.google.com/drive/folders/1el_pF54x0voymQ3B2CRPp2CACjIX8-JN?usp=drive_link)<br>
+Plugins:<br>
+[Motionbuilder send to Unreal](https://github.com/ue4plugins/MobuLiveLink/releases/tag/v3.0.6) you will need to select which version of motion you have.<br>
+[Optirack to motionbuilder plugin](https://optitrack.com/support/downloads/)<br>
+
 Documentation Links:<br>
 [Motionbuidler into Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/live-link-in-unreal-engine?application_version=5.4) It's for 5.4 but should be the same set up for 5.6.<br>
 [Optitrack Into Motionbuilder](https://docs.optitrack.com/v3.1/animation/autodesk-motionbuilder/autodesk-motionbuilder-plugin)<br>
