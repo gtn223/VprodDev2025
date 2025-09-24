@@ -41,6 +41,7 @@ Once you have downloaded zerotier, you will need to join by the network ID. I wi
 # From Week 4
 
 Assets: [Motive T-pose fbx](https://drive.google.com/drive/folders/1el_pF54x0voymQ3B2CRPp2CACjIX8-JN?usp=drive_link)<br>
+Documentation: [Motionbuidler into Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/live-link-in-unreal-engine?application_version=5.4) It's for 5.4 but should be the same set up for 5.6.<br>
 
 
 
