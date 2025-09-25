@@ -48,7 +48,9 @@ Plugins:<br>
 Documentation Links:<br>
 [Motionbuidler into Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/live-link-stream-motionbuilder-to-unreal-engine?application_version=5.4) It's for 5.4 but should be the same set up for 5.6.<br>
 [Optitrack Into Motionbuilder](https://optitrack.com/support/downloads/plugins.html)<br>
-Videos: [Demo of Opitrack into Unreal and Motionbuilder](https://drive.google.com/file/d/1d6QmVfdKO6Gk89dCp1Zccv08hfwmlish/view?usp=sharing)<br>
+Videos:[Demo of Opitrack into Unreal and Motionbuilder](https://drive.google.com/file/d/1d6QmVfdKO6Gk89dCp1Zccv08hfwmlish/view?usp=sharing)<br>
+
+German Perl's talk on [network importance](https://drive.google.com/file/d/1h_i2CNynwP8F_A_g4m5dW5qm6y88FgrN/view?usp=sharing)<br>
 
 
 
