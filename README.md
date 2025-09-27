@@ -40,6 +40,8 @@ Once you have downloaded zerotier, you will need to join by the network ID. I wi
 
 # From Week 4
 
+Slides:[Network importance](https://docs.google.com/presentation/d/1ekxzXpnn7_NvE8o85JFoCXouR5UXMsJkPQQRQNAPyZg/edit?usp=sharing)<br>
+
 Assets: [Motive T-pose fbx](https://drive.google.com/drive/folders/1el_pF54x0voymQ3B2CRPp2CACjIX8-JN?usp=drive_link)<br>
 Plugins:<br>
 [Motionbuilder send to Unreal](https://github.com/ue4plugins/MobuLiveLink/releases/tag/v3.0.6) you will need to select which version of motion you have.<br>
