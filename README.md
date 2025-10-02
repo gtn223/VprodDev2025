@@ -23,7 +23,12 @@ Video: [Metahumans and materials](https://drive.google.com/file/d/17GkGALyaozoMo
 # From Week 3
 
 Slides: [Mocap 101](https://docs.google.com/presentation/d/1k9N6rjLF3REOI8JMUtV8bdAJ2a0V8Z2Tnc1Nc40BnUE/edit?slide=id.p#slide=id.p) Feel free to look this over, I will go over these subjects more in the later classes.<br>
-Video:[Metahuman fix!](https://drive.google.com/file/d/1RqGrQ_UsmXDLf9xO8vw8xrFtW__RyduV/view?usp=drive_link) and [Measurement tool in unreal](https://drive.google.com/file/d/1OdDAdM-jS4fHHCuKoGVNfSTao6c3CYqq/view?usp=drive_link) and [Class Demo](https://drive.google.com/file/d/1hKcLqsgng0yRgaMV9guezWtfteJ6p7Gc/view?usp=sharing) and the [MakeHuman](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link) video on how to get a skeleton in and fix it up.<br>
+Video:<br>
+[Metahuman fix!](https://drive.google.com/file/d/1RqGrQ_UsmXDLf9xO8vw8xrFtW__RyduV/view?usp=drive_link)<br> and 
+[Measurement tool in unreal](https://drive.google.com/file/d/1OdDAdM-jS4fHHCuKoGVNfSTao6c3CYqq/view?usp=drive_link)<br>
+[Class Demo](https://drive.google.com/file/d/1hKcLqsgng0yRgaMV9guezWtfteJ6p7Gc/view?usp=sharing)<br>
+[MakeHuman](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link) video on how to get a skeleton in and fix it up.<br>
+
 Upload characters to this google drive folder: [Here](https://drive.google.com/drive/u/1/folders/1kw2apc4DPQl-Ce0Q9f9T316w3_0Xy6__)<br>
 Assets: [Ultra Dyanmic Sky](https://nyu.box.com/s/jg0yhbuovoiau7t7s7f064yux2jqr0pz) This will only work with your NYU email address. This is a 5.3 version, it should be able to be updated to 5.6.<br>
 Ethan David's talk: [Here](https://drive.google.com/file/d/1chDd5XbiAeSnQv-JIZ3QrpkW81aeifms/view?usp=drive_link)<br>
@@ -51,9 +56,21 @@ Plugins:<br>
 Documentation Links:<br>
 [Motionbuidler into Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/live-link-stream-motionbuilder-to-unreal-engine?application_version=5.4) It's for 5.4 but should be the same set up for 5.6.<br>
 [Optitrack Into Motionbuilder](https://optitrack.com/support/downloads/plugins.html)<br>
-Videos:[Demo of Opitrack into Unreal and Motionbuilder](https://drive.google.com/file/d/1d6QmVfdKO6Gk89dCp1Zccv08hfwmlish/view?usp=sharing)<br>
+Videos:<br>
+[Demo of Opitrack into Unreal and Motionbuilder](https://drive.google.com/file/d/1d6QmVfdKO6Gk89dCp1Zccv08hfwmlish/view?usp=sharing)<br>
 
 German Perl's talk on [network importance](https://drive.google.com/file/d/1h_i2CNynwP8F_A_g4m5dW5qm6y88FgrN/view?usp=sharing)<br>
+
+#From Week 5 
+Slides: [Previz and techviz](https://docs.google.com/presentation/d/1PO2RRUuhnGtmkVaXSswZM-d0VWYPEg9JIQcylNxbhrg/edit?usp=drive_link)<br>
+
+Assets: [Faceit application](https://drive.google.com/file/d/1DdwIi13njMb12_mpcFUZTFUP0QdwWe6n/view?usp=sharing)<br>
+
+Videos:<br>
+[MetaHuman Retargeter Fix](https://drive.google.com/file/d/1NcxQsAaLfQ6TvAYAxpByyd2ItC0zTY0I/view?usp=drive_link)<br>
+[Retargeting Fixes](https://drive.google.com/file/d/1dyM4a94PslYvnLSSMzbCLTCT-TDk8eEp/view?usp=sharing)<br>
+[FaceIT application Demo](https://drive.google.com/file/d/1eyC06rAk0hsOn6alkKjvf0DVe4hPtMgC/view?usp=sharing) You will need to download blender 3.6 for this to work!<br>
+
 
 
 
