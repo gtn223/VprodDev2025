@@ -71,7 +71,7 @@ Videos:<br>
 [Retargeting Fixes Inclass Demo](https://drive.google.com/file/d/1dyM4a94PslYvnLSSMzbCLTCT-TDk8eEp/view?usp=sharing)<br>
 [FaceIT application Demo](https://drive.google.com/file/d/1eyC06rAk0hsOn6alkKjvf0DVe4hPtMgC/view?usp=sharing) You will need to download blender 3.6 for this to work!<br>
 
-\Use this [link](https://download.blender.org/release/) to look for version 3.6.<br>
+Use this [link](https://download.blender.org/release/) to look for version 3.6.<br>
 
 
 
