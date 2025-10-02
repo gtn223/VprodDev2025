@@ -62,7 +62,7 @@ Videos:<br>
 German Perl's talk on [network importance](https://drive.google.com/file/d/1h_i2CNynwP8F_A_g4m5dW5qm6y88FgrN/view?usp=sharing)<br>
 
 # From Week 5 
-Slides: [Previz and techviz](https://docs.google.com/presentation/d/1PO2RRUuhnGtmkVaXSswZM-d0VWYPEg9JIQcylNxbhrg/edit?usp=drive_link)<br>
+Slides: [Mocap 101](https://docs.google.com/presentation/d/1k9N6rjLF3REOI8JMUtV8bdAJ2a0V8Z2Tnc1Nc40BnUE/edit?usp=drive_link) and [Previz and techviz](https://docs.google.com/presentation/d/1PO2RRUuhnGtmkVaXSswZM-d0VWYPEg9JIQcylNxbhrg/edit?usp=drive_link)<br>
 
 Assets: [Faceit application](https://drive.google.com/file/d/1DdwIi13njMb12_mpcFUZTFUP0QdwWe6n/view?usp=sharing)<br>
 
