@@ -75,7 +75,7 @@ Use this [link](https://download.blender.org/release/) to look for version 3.6.<
 
 # From Week 6 Virtual Class
 
-Video from zoom:[Here](https://nyu.zoom.us/rec/share/rpJZX-jZcOoocC___3x2XEn0l0las7WKqE2Lvd-X-LcEsqkDbzqg2caMuU3RKHNp.qPgY1Cp1_yKrOO7B?startTime=1759960784000)<br>
+Video from zoom: [Here](https://nyu.zoom.us/rec/share/rpJZX-jZcOoocC___3x2XEn0l0las7WKqE2Lvd-X-LcEsqkDbzqg2caMuU3RKHNp.qPgY1Cp1_yKrOO7B?startTime=1759960784000)<br>
 - Covered sequencer, ultra dynamic sky tool, and rendering techniques. 
 
 
