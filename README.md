@@ -76,7 +76,12 @@ Use this [link](https://download.blender.org/release/) to look for version 3.6.<
 # From Week 6 Virtual Class
 
 Video from zoom: [Here](https://nyu.zoom.us/rec/share/rpJZX-jZcOoocC___3x2XEn0l0las7WKqE2Lvd-X-LcEsqkDbzqg2caMuU3RKHNp.qPgY1Cp1_yKrOO7B?startTime=1759960784000)<br>
-- Covered sequencer, ultra dynamic sky tool, and rendering techniques. 
+- Covered sequencer, ultra dynamic sky tool, and rendering techniques.
+
+# From Week 7 Camera Tracking
+
+Video of camera tracking lecture and demo of using vcam in your level: [Here](https://drive.google.com/file/d/1AWRuKI8eRLnvhe7n5JaQ4Qd_KQcoEzFQ/view?usp=sharing)<br>
+- We covered camera tracking solutions, hardware for camera tracking like mo-sys, ncam, cinepucks, sputniks, genlock and timcode signals. 
 
 
 
