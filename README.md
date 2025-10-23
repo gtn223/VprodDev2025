@@ -81,7 +81,13 @@ Video from zoom: [Here](https://nyu.zoom.us/rec/share/rpJZX-jZcOoocC___3x2XEn0l0
 # From Week 7 Camera Tracking
 
 Video of camera tracking lecture and demo of using vcam in your level: [Here](https://drive.google.com/file/d/1AWRuKI8eRLnvhe7n5JaQ4Qd_KQcoEzFQ/view?usp=sharing)<br>
-- We covered camera tracking solutions, hardware for camera tracking like mo-sys, ncam, cinepucks, sputniks, genlock and timcode signals. 
+- We covered camera tracking solutions, hardware for camera tracking like mo-sys, ncam, cinepucks, sputniks, genlock and timcode signals.
+
+# From Week 8 Preparing for a shoot
+Video of version control and nDisplay asset from Matt Rader: [Here](https://drive.google.com/file/d/1xzHxnTxTcADkk17JAhPk-0XirDcLvpBx/view?usp=sharing) <br>
+
+More links to assets:
+Class asset folder that includes ICVFX documentation PDF's and the unreal project that has our nDisplay: [Here](https://drive.google.com/drive/folders/1IZiIUxSwht0Yj0FlL08xj1fGjvzLFRmX?usp=sharing)<br>
 
 
 
