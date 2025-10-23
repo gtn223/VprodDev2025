@@ -84,6 +84,7 @@ Video of camera tracking lecture and demo of using vcam in your level: [Here](ht
 - We covered camera tracking solutions, hardware for camera tracking like mo-sys, ncam, cinepucks, sputniks, genlock and timcode signals.
 
 # From Week 8 Preparing for a shoot
+Sildes for this week: [Here](https://docs.google.com/presentation/d/1Z6z43iDe8eh5iBHHHTHOwmsWBpexYgM1q2t5DREvEeU/edit?usp=drive_link)<br>
 Video of version control and nDisplay asset from Matt Rader: [Here](https://drive.google.com/file/d/1xzHxnTxTcADkk17JAhPk-0XirDcLvpBx/view?usp=sharing) <br>
 
 More links to assets:
