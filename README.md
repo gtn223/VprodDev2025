@@ -90,5 +90,10 @@ Video of version control and nDisplay asset from Matt Rader: [Here](https://driv
 More links to assets:
 Class asset folder that includes ICVFX documentation PDF's and the unreal project that has our nDisplay: [Here](https://drive.google.com/drive/folders/1IZiIUxSwht0Yj0FlL08xj1fGjvzLFRmX?usp=sharing)<br>
 
+# Week 9 Midterm! BREAK from Assignments
+Slides for preparing for a shoot: [Here](https://docs.google.com/presentation/d/1Z6z43iDe8eh5iBHHHTHOwmsWBpexYgM1q2t5DREvEeU/edit?usp=sharing)<br>
 
+# Week 10 Cleaning up animation
+Slides from lecture: [Here](https://docs.google.com/presentation/d/1YfkRXr3n__30M4v2IqL0ZkNnu4keFvAI/edit?usp=sharing&ouid=112554242895601503808&rtpof=true&sd=true)<br>
+Video of class demo: [Here](https://drive.google.com/file/d/12rxX3mWutQ9cn5F7eYuPBHTXBZZXkzN-/view?usp=sharing)<br>
 
