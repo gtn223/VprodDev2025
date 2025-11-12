@@ -97,3 +97,7 @@ Slides for preparing for a shoot: [Here](https://docs.google.com/presentation/d/
 Slides from lecture: [Here](https://docs.google.com/presentation/d/1YfkRXr3n__30M4v2IqL0ZkNnu4keFvAI/edit?usp=sharing&ouid=112554242895601503808&rtpof=true&sd=true)<br>
 Video of class demo: [Here](https://drive.google.com/file/d/12rxX3mWutQ9cn5F7eYuPBHTXBZZXkzN-/view?usp=sharing)<br>
 
+# Week 11 Showcontrol/Blueprints
+Video: Demo of physics for newly created bones [Here](https://drive.google.com/file/d/1aI-MmYWMBV1rewFE-vja-GdhB4pDw4oF/view?usp=sharing)<br>
+Video: Demo of creating OSC functionality [Here](https://drive.google.com/file/d/1R1Kbshzqg9BmlOqFFSXPH9xO6nLnwnhJ/view?usp=drive_link)<br>
+
