@@ -101,3 +101,14 @@ Video of class demo: [Here](https://drive.google.com/file/d/12rxX3mWutQ9cn5F7eYu
 Video: Demo of physics for newly created bones [Here](https://drive.google.com/file/d/1aI-MmYWMBV1rewFE-vja-GdhB4pDw4oF/view?usp=sharing)<br>
 Video: Demo of creating OSC functionality [Here](https://drive.google.com/file/d/1R1Kbshzqg9BmlOqFFSXPH9xO6nLnwnhJ/view?usp=drive_link)<br>
 
+# Week 12 Demo of Showcontrol + OpenAI API
+Video: In class Demo [Here](https://drive.google.com/file/d/1KFac4Z6RsY2igEbxITRZ7H0M8kR-Gcjd/view?usp=sharing)<br>
+Video: LED volume media comp demo [Here](https://drive.google.com/file/d/1KiSW-mIL7rqks1UFS_xWMkx-q5dtCo3m/view?usp=sharing)<br>
+
+Link to OSC github plugin, you will need to add C++ code in the project first! And then compile your project with visual studio! [Here](https://github.com/monsieurgustav/UE-OSC/tree/master/UE-OSC)<br>
+
+Link to OpenAI github, this will require you to build Unreal from source code and then create a project from the source build [Here](https://github.com/KellanM/OpenAI-Api-Unreal)<br>
+
+Link to stage dimensions and space specs at the Navy Yard [Here](https://engineering.nyu.edu/research/nyu-tandon-yard)<br>
+
+
