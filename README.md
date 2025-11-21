@@ -105,6 +105,8 @@ Video: Demo of creating OSC functionality [Here](https://drive.google.com/file/d
 Video: In class Demo [Here](https://drive.google.com/file/d/1KFac4Z6RsY2igEbxITRZ7H0M8kR-Gcjd/view?usp=sharing)<br>
 Video: LED volume media comp demo [Here](https://drive.google.com/file/d/1KiSW-mIL7rqks1UFS_xWMkx-q5dtCo3m/view?usp=sharing)<br>
 
+Google doc that goes over the blueprint set-up for OpenAI's API [Here](https://docs.google.com/document/d/1d5xFcQjZgw0hsi8ZVlDjBs--CKfa9kvm85L1DWggotc/edit?usp=sharing)<br>
+
 Link to OSC github plugin, you will need to add C++ code in the project first! And then compile your project with visual studio! [Here](https://github.com/monsieurgustav/UE-OSC/tree/master/UE-OSC)<br>
 
 Link to OpenAI github, this will require you to build Unreal from source code and then create a project from the source build [Here](https://github.com/KellanM/OpenAI-Api-Unreal)<br>
